@@ -1,1 +1,2 @@
 HI testing git merge
+This is fantastic
